@@ -1,24 +1,44 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import styled from "styled-components";
+import Infos from "./Components/Infos";
+
+
+const Div = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #ccc;
+`;
+
+const Div2 =styled.div`
+  width: 400px;
+  height: 500px;
+  background-color: #fff;
+`;
 
 function App() {
+  const [dados, setDados] = React.useState(null);
+
+  async function handleClick(event) {
+    console.log(event.target.innerText)
+    const url = `./Components/json/naruto.json/${event.target.innerText}`;
+    const response = await fetch(url)
+
+    const json = await response.json()
+    console.log(json)
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Div>
+      <Div2>
+        
+        <button onClick={handleClick}>naruto</button>
+        <Infos />
+
+      </Div2>
+    </Div>
   );
 }
 

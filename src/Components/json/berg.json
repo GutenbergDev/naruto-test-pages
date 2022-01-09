@@ -1,0 +1,82 @@
+ [
+    {
+        "id": 1,
+        "name": "Naruto",
+        "parents": "['Minato Namikaze', 'Kushina Uzumaki']",
+        "image1": "images/naruto/naruto.png",
+        "image2": "imgages/naruto/naruto-sombra.png",
+        "description": "Naruto Uzumaki (うずまきナルト Uzumaki Naruto?) é um personagem fictício da franquia de mangá e anime Naruto, criada por Masashi Kishimoto. Servindo como o protagonista homônimo da série, ele é um jovem ninja da vila fictícia de Konohagakure (Vila Oculta da Folha). Os aldeões de sua vila o desprezavam por causa da Raposa de Nove Caudas (uma criatura malévola que atacou Konohagakure) que foi selada em seu corpo. Apesar disso, ele aspira se tornar o líder de sua aldeia, o Hokage, a fim de receber sua aprovação. Sua personalidade despreocupada, otimista e brincalhona permite que ele faça amizade com outros ninjas de Konohagakure, bem como com ninjas de outras aldeias. Naruto aparece nos filmes da série e em outras mídias relacionadas à franquia, incluindo jogos eletrônicos e animações de vídeo originais (OVA), bem como a sequência Boruto: Naruto Next Generations de Ukyo Kodachi, onde ele é o Hokage e seu filho, Boruto, é o protagonista."
+    },
+    {
+        "id": 2,
+        "name": "Sasuke Uchiha",
+        "image1": "images/sasuke/sasuke.png",
+        "image2": "images/sasuke/sasuke-sombra.png",
+        "parents": "['Fugako Uchiha', 'Mikoto Uchiha']",
+        "description": "Sasuke Uchiha (うちは サスケ Uchiha Sasuke?) é um personagem fictício da série de anime e mangá Naruto criado por Masashi Kishimoto. Na história fictícia da série, Sasuke é membro do clã Uchiha, que era uma habilidosa família de ninjas da Vila Oculta da Folha. Seu objetivo inicial é vingar a destruição de seu clã, matando seu irmão Itachi Uchiha, que assassinou quase todos sozinho. Inicialmente é frio e guiado por sua vingança, mas posteriormente cria vínculos de amizades com outros personagens, particularmente com Naruto Uzumaki, quem ele passa a considerar como rival."
+    },
+    {
+        "id": 3,
+        "name": "Sakura Haruno",
+        "image1": "images/sakura/sakura.png",
+        "image2": "images/sakura/sakura-sombra.png",
+        "parents": "['Kizashi Haruno', 'Mebuki Haruno']",
+        "description": "Sakura Uchiha (うちはサクラ Uchiha Sakura?); batizada Haruno (春野?) inicialmente) é uma personagem fictícia da franquia de mangá e anime Naruto, criada por Masashi Kishimoto. No anime e mangá, Sakura é uma kunoichi afiliada com a vila de Konoha, e parte da equipe 7, que consiste de si mesma, Naruto Uzumaki, Sasuke Uchiha e seu sensei, Kakashi Hatake. Sakura inicialmente tem uma paixão por Sasuke, elogiando-o em cada situação, e acumulando desprezo sobre o menos qualificado Naruto."
+    },
+    {
+        "id": 4,
+        "name": "Kakashi Hatake",
+        "image1": "images/kakashi/kakashi.png",
+        "image2": "images/kakashi/kakashi-sombra.png",
+        "parents": "['Sakumo Hatake', 'Indiferente']",
+        "description": "Kakashi Hatake (はたけカカシ Hatake Kakashi?), Apelidado como Kakashi O Ninja que copia (コピー忍者のカカシ kopī no ninja Kakashi?) e Kakashi do Sharingan (写輪眼のカカシ Sharingan no Kakashi?) é um personagem fictício da série de mangá e anime Naruto, escrito pelo mangaká Masashi Kishimoto. O apelido do personagem significa, literalmente, Hatake (はたけ Hatake?, 'campo cultivado'), enquanto que o nome Kakashi (カカシ Kakashi?, 'espantalho')."
+    },
+    {
+        "id": 5,
+        "name": "Hiruzen Sarutobi",
+        "image1": "images/hiruzen/hiruzen.png",
+        "image2": "images/hiruzen/hiruzen-sombra.png",
+        "parents": "['Sasuke Sarutobi', 'Asuma Sarutobi']",
+        "description": "Hiruzen Sarutobi (猿飛ヒルゼン, Sarutobi Hiruzen) foi o Terceiro Hokage (三代目火影, Sandaime Hokage, Literalmente significa 'Terceira Sombra do Fogo') de Konohagakure. Sendo um discípulo do Hokage anterior da vila, Hiruzen era um ninja poderoso, aclamado como o Deus Shinobi (忍の神, Shinobi no Kami, 'O Shinobi Supremo'). Embora ele seja originalmente o professor dos Sannin, várias gerações de ninjas de Konoha se beneficiaram de sua sabedoria durante sua vida."
+    },
+    {
+        "id": 6,
+        "name": "Chōji Akimichi",
+        "image1": "images/choji/choji.png",
+        "image2": "images/choji/choji-sombra.png",
+        "parents": "['Chōza Akimichi', 'Desconhecida']",
+        "description": "Chōji Akimichi (秋道チョウジ, Akimichi Chōji) é um membro do clã Akimichi de Konohagakure. Embora seja sensível com relação ao seu peso, Chōji é, contudo, dedicado aos seus amigos, especialmente o Time Asuma. Anos mais tarde, ele se casa com Karui e tem uma filha."
+    },
+    {
+        "id": 7,
+        "name": "Gaara",
+        "image1": "images/gaara/gaara.png",
+        "image2": "images/gaara/gaara-sombra.png",
+        "parents": "['Rasa', 'Karura']",
+        "description": "Gaara (我爱羅, Gaara) é um shinobi de Sunagakure. O Shukaku foi selado em seu corpo no dia de seu nascimento, um procedimento que resultou na morte de sua mãe. Considerado como um monstro pela vila e sem ninguém para amá-lo, Gaara passou a desprezar o mundo e começou contando apenas com sua própria força, ganhando o título de Gaara do Deserto (砂瀑の我愛羅, Sabaku no Gaara)."
+    },
+    {
+        "id": 8,
+        "name": "Rock Lee",
+        "image1": "images/rock/rock-lee.png",
+        "image2": "images/rock/rock-lee-sombra.png",
+        "parents": "['Desconhecido', 'Desconhecido']",
+        "description": "Rock Lee (ロック・リー, Rokku Rī) é um shinobi de Konohagakure. Apesar de ele não ter certas habilidades tipicamente associadas com a vida como um ninja, Lee pretende compensar suas deficiências de qualquer maneira que puder. Recebendo treinamento especial a este respeito de seu professor, Might Guy, ele se torna um mestre em taijutsu e visa apenas ficar mais forte. Anos mais tarde, ele passa suas habilidades e métodos de treinamento para seu filho."
+    },
+    {
+        "id": 9,
+        "name": "Temari",
+        "image1": "images/temari/temari.png",
+        "image2": "images/temari/temari-sombra.png",
+        "parents": "['Rasa', 'Karura']",
+        "description": "Temari Nara (奈良テマリ, Nara Temari) é uma antiga kunoichi do clã dos Kazekage de Sunagakure. Depois de se casar com Shikamaru Nara, ela se torna membro do clã Nara e emigra para Konohagakure, onde trabalha como kunoichi para a aldeia."
+    },
+    {
+        "id": 10,
+        "name": "Jiraiya",
+        "image1": "images/jiraya/jiraya.png",
+        "image2": "images/jiraya/jiraya-sombra.png",
+        "parents": "['Desconhecido', 'Desconhecida']",
+        "description": "iraiya (自来也, Jiraiya) foi um dos Sannin Lendários, junto com Tsunade e Orochimaru, treinados por Hiruzen Sarutobi. Ele era um auto-proclamado super-pervertido, e o escritor da popular série de livros de ficção para adultos, chamado Icha Icha. Ele também era conhecido como o Sábio dos Sapos (虾蟇仙人, Gama Sennin), por causa da sua assinatura de invocação de sapos, e por seu status como sábio."
+    }
+]
